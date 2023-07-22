@@ -1,0 +1,8 @@
+{
+    "response": {
+        "attributes": [
+            {"annotation": "int", "name": "a"},
+            {"annotation": "typing.Callable(a.C.foo)[[], str]", "name": "foo"},
+        ]
+    }
+}

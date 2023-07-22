@@ -1,0 +1,1 @@
+"""Some module for stub."""

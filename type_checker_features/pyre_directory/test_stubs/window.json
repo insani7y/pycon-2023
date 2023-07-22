@@ -1,0 +1,27 @@
+{
+    "response": {
+        "attributes": [
+            {
+                "name": "area",
+                "annotation": "BoundMethod[typing.Callable[...], int], test_stubs.somefile.Window]",
+                "kind": "regular",
+                "final": false,
+            },
+            {"name": "height", "annotation": "int", "kind": "regular", "final": false},
+            {"name": "width", "annotation": "int", "kind": "regular", "final": false},
+            {
+                "name": "__match_args__",
+                "annotation": "typing.Tuple[typing_extensions.Literal['width'], typing_extensions.Literal['height']]",
+                "kind": "regular",
+                "final": false,
+            },
+            {
+                "name": "__ge__",
+                "annotation": "BoundMethod[...], bool], mymodule.Window]",
+                "kind": "regular",
+                "final": false,
+            },
+            ...,
+        ]
+    }
+}

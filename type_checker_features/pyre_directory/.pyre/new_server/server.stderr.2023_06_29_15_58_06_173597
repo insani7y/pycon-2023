@@ -1,0 +1,46 @@
+2023-06-29 15:58:06 INFO Server has started listening on socket `/var/folders/kl/rklhwdp13dzb3b0j85l4jlzm0000gn/T/pyre_server_1bcc1b7516904befeef7205b26e43b3d.sock`
+2023-06-29 15:58:06 INFO Initializing shared memory [heap_size=8589934592, dep_table_pow=27, hash_table_pow=26]
+2023-06-29 15:58:06 INFO Initializing server state from scratch...
+2023-06-29 15:58:06 INFO Creating environment...
+2023-06-29 15:58:06 INFO Building module tracker...
+2023-06-29 15:58:06 PERFORMANCE Module tracker built: 0.369s
+2023-06-29 15:58:06 PERFORMANCE Full environment built: 0.451s
+2023-06-29 15:58:06 INFO Collecting all definitions...
+2023-06-29 15:58:06 PERFORMANCE Collected definitions: 0.003s
+2023-06-29 15:58:06 INFO Checking 9 functions...
+2023-06-29 15:58:06 PROGRESS Processed 9 of 9 functions
+2023-06-29 15:58:06 PERFORMANCE Check_TypeCheck: 0.169s
+2023-06-29 15:58:06 MEMORY Shared memory size post-typecheck (size: 0)
+2023-06-29 15:58:06 PROGRESS Postprocessing 2 sources...
+2023-06-29 15:58:06 PROGRESS Postprocessed 2 of 2 sources
+2023-06-29 15:58:06 PERFORMANCE Check_Postprocessing: 0.000s
+2023-06-29 15:58:06 PERFORMANCE Initialization: 0.688s
+2023-06-29 15:58:06 INFO Server state initialized.
+2023-06-29 15:58:25 SERVER Connection established
+2023-06-29 15:58:25 SERVER Processing request (Query"callers(create_empty)")...
+2023-06-29 15:58:25 PERFORMANCE Server request: 0.003s
+2023-06-29 15:58:25 SERVER Request `(Query"callers(create_empty)")` processed
+2023-06-29 15:58:25 SERVER Connection closed
+2023-06-29 16:00:08 SERVER Connection established
+2023-06-29 16:00:08 SERVER Processing request (Query"types(Window)")...
+2023-06-29 16:00:08 PERFORMANCE Server request: 0.000s
+2023-06-29 16:00:08 SERVER Request `(Query"types(Window)")` processed
+2023-06-29 16:00:08 SERVER Connection closed
+2023-06-29 16:02:03 SERVER Connection established
+2023-06-29 16:02:03 SERVER Processing request (Query"calles(create_empty)")...
+2023-06-29 16:02:03 PERFORMANCE Server request: 0.000s
+2023-06-29 16:02:03 SERVER Request `(Query"calles(create_empty)")` processed
+2023-06-29 16:02:03 SERVER Connection closed
+2023-06-29 16:02:38 SERVER Connection established
+2023-06-29 16:02:38 SERVER Processing request (Query"attributes(Window)")...
+2023-06-29 16:02:38 PERFORMANCE Server request: 0.001s
+2023-06-29 16:02:38 SERVER Request `(Query"attributes(Window)")` processed
+2023-06-29 16:02:38 SERVER Connection closed
+2023-06-29 16:04:09 SERVER Connection established
+2023-06-29 16:04:09 SERVER Processing request (Query"attributes(somefile.Window)")...
+2023-06-29 16:04:09 PERFORMANCE Server request: 0.008s
+2023-06-29 16:04:09 SERVER Request `(Query"attributes(somefile.Window)")` processed
+2023-06-29 16:04:09 SERVER Connection closed
+2023-07-02 12:31:44 INFO Server interrupted with signal `sigterm`
+2023-07-02 12:31:44 INFO Server is going down. Cleaning up...
+2023-07-02 12:31:44 INFO Server process get interrputed with signal sigterm

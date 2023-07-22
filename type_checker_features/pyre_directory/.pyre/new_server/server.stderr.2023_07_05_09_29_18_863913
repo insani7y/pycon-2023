@@ -1,0 +1,31 @@
+2023-07-05 09:29:19 INFO Server has started listening on socket `/var/folders/kl/rklhwdp13dzb3b0j85l4jlzm0000gn/T/pyre_server_1bcc1b7516904befeef7205b26e43b3d.sock`
+2023-07-05 09:29:19 INFO Initializing shared memory [heap_size=8589934592, dep_table_pow=27, hash_table_pow=26]
+2023-07-05 09:29:19 INFO Initializing server state from scratch...
+2023-07-05 09:29:19 INFO Creating environment...
+2023-07-05 09:29:19 INFO Building module tracker...
+2023-07-05 09:29:19 PERFORMANCE Module tracker built: 0.440s
+2023-07-05 09:29:19 PERFORMANCE Full environment built: 0.524s
+2023-07-05 09:29:19 INFO Collecting all definitions...
+2023-07-05 09:29:19 PERFORMANCE Collected definitions: 0.007s
+2023-07-05 09:29:19 INFO Checking 12 functions...
+2023-07-05 09:29:19 PROGRESS Processed 12 of 12 functions
+2023-07-05 09:29:19 PERFORMANCE Check_TypeCheck: 0.179s
+2023-07-05 09:29:19 MEMORY Shared memory size post-typecheck (size: 0)
+2023-07-05 09:29:19 PROGRESS Postprocessing 4 sources...
+2023-07-05 09:29:19 PROGRESS Postprocessed 4 of 4 sources
+2023-07-05 09:29:19 PERFORMANCE Check_Postprocessing: 0.000s
+2023-07-05 09:29:19 PERFORMANCE Initialization: 0.753s
+2023-07-05 09:29:19 INFO Server state initialized.
+2023-07-05 09:29:28 SERVER Connection established
+2023-07-05 09:29:28 SERVER Processing request (Query"attributes(somefile.Window)")...
+2023-07-05 09:29:28 PERFORMANCE Server request: 0.003s
+2023-07-05 09:29:28 SERVER Request `(Query"attributes(somefile.Window)")` processed
+2023-07-05 09:29:28 SERVER Connection closed
+2023-07-05 09:29:40 SERVER Connection established
+2023-07-05 09:29:40 SERVER Processing request (Query"attributes(somefile.Window)")...
+2023-07-05 09:29:40 PERFORMANCE Server request: 0.000s
+2023-07-05 09:29:40 SERVER Request `(Query"attributes(somefile.Window)")` processed
+2023-07-05 09:29:40 SERVER Connection closed
+2023-07-05 09:31:19 SERVER Connection established
+2023-07-05 09:31:19 INFO Server interrupted with signal `sigint`
+2023-07-05 09:31:19 INFO Server is going down. Cleaning up...

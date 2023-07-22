@@ -1,0 +1,26 @@
+2023-07-05 09:31:19 INFO Server has started listening on socket `/var/folders/kl/rklhwdp13dzb3b0j85l4jlzm0000gn/T/pyre_server_1bcc1b7516904befeef7205b26e43b3d.sock`
+2023-07-05 09:31:19 INFO Initializing shared memory [heap_size=8589934592, dep_table_pow=27, hash_table_pow=26]
+2023-07-05 09:31:19 INFO Initializing server state from scratch...
+2023-07-05 09:31:19 INFO Creating environment...
+2023-07-05 09:31:19 INFO Building module tracker...
+2023-07-05 09:31:20 PERFORMANCE Module tracker built: 0.365s
+2023-07-05 09:31:20 PERFORMANCE Full environment built: 0.438s
+2023-07-05 09:31:20 INFO Collecting all definitions...
+2023-07-05 09:31:20 PERFORMANCE Collected definitions: 0.006s
+2023-07-05 09:31:20 INFO Checking 12 functions...
+2023-07-05 09:31:20 PROGRESS Processed 12 of 12 functions
+2023-07-05 09:31:20 PERFORMANCE Check_TypeCheck: 0.156s
+2023-07-05 09:31:20 MEMORY Shared memory size post-typecheck (size: 0)
+2023-07-05 09:31:20 PROGRESS Postprocessing 4 sources...
+2023-07-05 09:31:20 PROGRESS Postprocessed 4 of 4 sources
+2023-07-05 09:31:20 PERFORMANCE Check_Postprocessing: 0.000s
+2023-07-05 09:31:20 PERFORMANCE Initialization: 0.640s
+2023-07-05 09:31:20 INFO Server state initialized.
+2023-07-05 09:31:20 SERVER Connection established
+2023-07-05 09:31:20 SERVER Processing request (DisplayTypeError())...
+2023-07-05 09:31:20 PERFORMANCE Server request: 0.000s
+2023-07-05 09:31:20 SERVER Request `(DisplayTypeError())` processed
+2023-07-05 09:31:20 SERVER Connection closed
+2023-07-05 09:31:28 SERVER Connection established
+2023-07-05 09:31:28 INFO Server interrupted with signal `sigint`
+2023-07-05 09:31:28 INFO Server is going down. Cleaning up...

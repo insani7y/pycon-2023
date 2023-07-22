@@ -1,0 +1,36 @@
+2023-07-05 09:31:30 INFO Server has started listening on socket `/var/folders/kl/rklhwdp13dzb3b0j85l4jlzm0000gn/T/pyre_server_1bcc1b7516904befeef7205b26e43b3d.sock`
+2023-07-05 09:31:30 INFO Initializing shared memory [heap_size=8589934592, dep_table_pow=27, hash_table_pow=26]
+2023-07-05 09:31:30 INFO Initializing server state from scratch...
+2023-07-05 09:31:30 INFO Creating environment...
+2023-07-05 09:31:30 INFO Building module tracker...
+2023-07-05 09:31:31 PERFORMANCE Module tracker built: 0.363s
+2023-07-05 09:31:31 PERFORMANCE Full environment built: 0.429s
+2023-07-05 09:31:31 INFO Collecting all definitions...
+2023-07-05 09:31:31 PERFORMANCE Collected definitions: 0.004s
+2023-07-05 09:31:31 INFO Checking 12 functions...
+2023-07-05 09:31:31 PROGRESS Processed 12 of 12 functions
+2023-07-05 09:31:31 PERFORMANCE Check_TypeCheck: 0.146s
+2023-07-05 09:31:31 MEMORY Shared memory size post-typecheck (size: 0)
+2023-07-05 09:31:31 PROGRESS Postprocessing 4 sources...
+2023-07-05 09:31:31 PROGRESS Postprocessed 4 of 4 sources
+2023-07-05 09:31:31 PERFORMANCE Check_Postprocessing: 0.000s
+2023-07-05 09:31:31 PERFORMANCE Initialization: 0.618s
+2023-07-05 09:31:31 INFO Server state initialized.
+2023-07-05 09:31:34 SERVER Connection established
+2023-07-05 09:31:34 SERVER Processing request (Query"attributes(somefile.Window)")...
+2023-07-05 09:31:34 PERFORMANCE Server request: 0.001s
+2023-07-05 09:31:34 SERVER Request `(Query"attributes(somefile.Window)")` processed
+2023-07-05 09:31:34 SERVER Connection closed
+2023-07-05 09:32:23 SERVER Connection established
+2023-07-05 09:32:23 SERVER Processing request (Query"attributes(somefile.Window)")...
+2023-07-05 09:32:23 PERFORMANCE Server request: 0.000s
+2023-07-05 09:32:23 SERVER Request `(Query"attributes(somefile.Window)")` processed
+2023-07-05 09:32:23 SERVER Connection closed
+2023-07-05 09:32:45 SERVER Connection established
+2023-07-05 09:32:45 SERVER Processing request (Query"attributes(test_stubs.somefile.Window)")...
+2023-07-05 09:32:45 PERFORMANCE Server request: 0.008s
+2023-07-05 09:32:45 SERVER Request `(Query"attributes(test_stubs.somefile.Window)")` processed
+2023-07-05 09:32:45 SERVER Connection closed
+2023-07-08 12:22:38 INFO Server interrupted with signal `sigterm`
+2023-07-08 12:22:38 INFO Server is going down. Cleaning up...
+2023-07-08 12:22:38 INFO Server process get interrputed with signal sigterm

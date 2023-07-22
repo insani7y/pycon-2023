@@ -1,0 +1,2 @@
+class MyClass:
+    name: str
